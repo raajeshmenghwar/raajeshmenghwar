@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
-<h3 align="center">🎓 Software Engineering Student | 🛡️ Cybersecurity Enthusiast | ✍️ Technical Blogger </h3>
+<h3 align="center">🎓 Software Engineering Student | 🛡️ Cybersecurity Researcher | ✍️ Technical Blogger </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raajeshmenghwar&label=Profile%20views&color=0e75b6&style=flat" alt="raajeshmenghwar" /> </p>
 
